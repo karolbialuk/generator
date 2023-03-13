@@ -1,0 +1,14 @@
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em rgba(100, 108, 255, 0.6666666667));
+}
+
+.logo.vue:hover {
+  filter: drop-shadow(0 0 2em rgba(66, 184, 131, 0.6666666667));
+}/*# sourceMappingURL=MainMenuGlobalComponent.css.map */
