@@ -1,1 +1,1 @@
-mojgenerator.netlify.app
+Link live: https://mojgenerator.netlify.app
